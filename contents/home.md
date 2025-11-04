@@ -1,17 +1,25 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![boyu26](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/boyu26)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+大家好！我目前在南昌大学学习，现已推免至东北大学，计划于2026年9月起攻读硕士学位，这是我的个人主页.
 
-#### Contact
+#### 联系方式
 
-Email: senli[at]fas.harvard.edu
+Email: boyu26a[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+硕士，东北大学，理学院，计算数学，2026— （计划）.\
+学士，南昌大学，数学与计算机学院，信息与计算科学，2023-2026.\
+学士，南昌大学，工程建设学院，土木工程，2022-2023.\
+学生，哈尔滨市第三中学南岗校区，2019-2022.
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### 感兴趣的研究方向
+##### 方向 1: 偏微分方程数值解法.
+我目前正在致力于研究相场梯度流的无条件能量稳定方法。此外，我对传统方法（如LDG），以及深度学习方法（如PINN）和神经算子方法（如FNO）也很感兴趣.  
 
+##### 方向 2: 智能决策.
+主要涉及多智能体综合能源系统的协同规划以及模糊环境下的多属性决策方法.
+
+##### 方向3：智能计算和机器学习.
+主要涉及传统机器学习方法的改进及其应用，以及群体智能算法和进化算法的改进及其应用.
