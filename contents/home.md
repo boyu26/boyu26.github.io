@@ -2,24 +2,26 @@
 
 [![boyu26](https://img.shields.io/badge/boyu26-github-blue?logo=github)](https://github.com/boyu26)
 
-Hello everyone! I'm currently a first-year M.S student at the College of Science, Northeastern University (Shen yang, China), supervised by Prof. Xin-Hui Shao.
+Hello everyone! I'm currently a first-year M.S. student at the College of Science, Northeastern University (Shen yang, China), supervised by Prof. Xin-Hui Shao.  
+
+Before that, I obtained my B.S. degree from Nanchang University in 2026, where I supervised by Associate Prof. Li-Dan Liao.
+
+My research interests lie in numerical solutions of partial differential equations. Currently, I focus on phase field model, gradient flow and large language model. 
 
 #### Contact
 
 Email: boyu26a@163.com
 
 #### Education
-硕士，东北大学，理学院，计算数学，2026—2029(计划)\
-学士，南昌大学，数学与计算机学院，信息与计算科学，2023-2026\
-学士，南昌大学，工程建设学院，土木工程，2022-2023\
-学生，哈尔滨市第三中学南岗校区，2019-2022
+M.S. @ College of Science, Northeastern University (Shen Yang, China), 2026-2029(expected).\  
+Advisor: Prof. Xin-Hui Shao
 
-#### Interested directions
-##### 方向 1: 偏微分方程数值解法
-目前正在致力于研究相场梯度流的无条件能量稳定方法。此外，对传统方法(如LDG)，以及深度学习方法(如PINN)和神经算子方法(如FNO)也很感兴趣。
+B.S. @ School of Mathematics and Computer Science, Nanchang University, 2022-2026.\  
+Advisor: Associate Prof. Li-Dan Liao\  
+Special thanks to the School of Infrastructure Engineering, Nanchang University for the guidance during my first year as an undergraduate student.
 
-##### 方向 2: 智能决策
-主要涉及多智能体综合能源系统的协同规划以及模糊环境下的多属性决策方法。
+Student @ Harbin No.3 Middle School (Nangang Campus), 2019-2022.\  
+Advisor: Ren-Hai Jiang
 
-##### 方向3：智能计算和机器学习
-主要涉及传统机器学习方法的改进及其应用，以及群体智能算法和进化算法的改进及其应用。
+#### Academic Activities
+Summer School on Frontiers in Scientific Computing, School of Mathematical Sciences, Nanjing Normal University, Nanjing, August 16-21, 2026.
