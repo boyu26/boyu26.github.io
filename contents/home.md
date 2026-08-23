@@ -2,7 +2,7 @@
 
 [![boyu26](https://img.shields.io/badge/boyu26-github-blue?logo=github)](https://github.com/boyu26)
 
-Hello everyone! I'm currently a first-year M.S. student at the College of Science, Northeastern University (Shen yang, China), supervised by Prof. Xin-Hui Shao.  
+Hello everyone! I'm currently a first-year M.S. student at the College of Science, Northeastern University (Shen Yang, China), supervised by Prof. Xin-Hui Shao.  
 
 Before that, I obtained my B.S. degree from Nanchang University in 2026, where I supervised by Associate Prof. Li-Dan Liao.
 
@@ -13,7 +13,7 @@ My research interests lie in numerical solutions of partial differential equatio
 Email: boyu26a@163.com
 
 #### Education
-- M.S. @ College of Science, Northeastern University (Shen Yang, China), 2026-2029(expected).\  
+- M.S. @ College of Science, Northeastern University (Shen Yang, China), 2026-2029(expected).
 Advisor: Prof. Xin-Hui Shao
 
 - B.S. @ School of Mathematics and Computer Science, Nanchang University, 2022-2026.
