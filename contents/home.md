@@ -16,11 +16,11 @@ Email: boyu26a@163.com
 - M.S. @ College of Science, Northeastern University (Shen Yang, China), 2026-2029(expected).\  
 Advisor: Prof. Xin-Hui Shao
 
-- B.S. @ School of Mathematics and Computer Science, Nanchang University, 2022-2026.\  
-Advisor: Associate Prof. Li-Dan Liao\  
+- B.S. @ School of Mathematics and Computer Science, Nanchang University, 2022-2026.
+Advisor: Associate Prof. Li-Dan Liao  
 Special thanks to the School of Infrastructure Engineering, Nanchang University for the guidance during my first year as an undergraduate student.
 
-- Student @ Harbin No.3 Middle School (Nangang Campus), 2019-2022.\  
+- Student @ Harbin No.3 Middle School (Nangang Campus), 2019-2022.
 Advisor: Ren-Hai Jiang
 
 #### Academic Activities
