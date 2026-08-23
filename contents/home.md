@@ -18,6 +18,7 @@ Advisor: Prof. Xin-Hui Shao
 
 - B.S. @ School of Mathematics and Computer Science, Nanchang University, 2022-2026.
 Advisor: Associate Prof. Li-Dan Liao  
+
 Special thanks to the School of Infrastructure Engineering, Nanchang University for the guidance during my first year as an undergraduate student.
 
 - Student @ Harbin No.3 Middle School (Nangang Campus), 2019-2022.
