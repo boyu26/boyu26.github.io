@@ -2,7 +2,7 @@
 
 [![boyu26](https://img.shields.io/badge/boyu26-github-blue?logo=github)](https://github.com/boyu26)
 
-大家好！我目前在南昌大学学习，已推免至东北大学，计划于2026年9月起攻读硕士学位，这是我的个人主页。
+Hello everyone! I'm currently a first-year M.S student at the College of Science, Northeastern University (Shen yang, China), supervised by Prof. Xin-Hui Shao.
 
 #### Contact
 
