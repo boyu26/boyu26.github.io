@@ -1,8 +1,8 @@
 
-- 南昌大学一等优秀学生奖学金, 2025
+- First Grade Scholarship, Nanchang University, 2025
 
-- 南昌大学一等优秀学生奖学金, 2024
+- First Grade Scholarship, Nanchang University, 2024
 
-- 南昌大学特等优秀学生奖学金, 2023
+- Special Grade Scholarship, Nanchang University, 2023
 
-- 南昌大学三好学生标兵, 2023
+- Merit Student, Nanchang University, 2023
