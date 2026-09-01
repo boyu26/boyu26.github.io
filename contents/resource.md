@@ -1,1 +1,1 @@
-- 《实变函数与泛函分析》期末试题（回忆版）[[Paper]](https://mp.weixin.qq.com/s/n5sNj2MDKmVIDqj4EmTJeQ)
+- 南昌大学2024-2025秋季学期《实变函数与泛函分析》期末试题（回忆版）[[link]](https://mp.weixin.qq.com/s/n5sNj2MDKmVIDqj4EmTJeQ)
